@@ -2,7 +2,7 @@
 
 ## 🏁 Start
 
-* [Noções básicas para Simplesdesk](README.md)
+* [Noções básicas para Flowseller](README.md)
 * [Criando uma conta](start/criando-uma-conta.md)
 * [Fazendo login](start/fazendo-login.md)
 * [Glossário Simplesdesk](start/glossario-simplesdesk.md)
