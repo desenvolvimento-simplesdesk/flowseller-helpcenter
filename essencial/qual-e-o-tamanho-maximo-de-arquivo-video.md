@@ -1,7 +1,6 @@
 # Qual é o tamanho máximo de arquivo/vídeo?
 
-Use vídeo ou áudio cujo tamanho não exceda 25 MB. Se o vídeo tiver mais de 25 MB, carregue-o no Facebook e utilize a URL em nossa plataforma utilizando o bloco de vídeo no construtor de fluxo (veja a imagem abaixo).\
-
+Use vídeo ou áudio cujo tamanho não exceda 25 MB. Se o vídeo tiver mais de 25 MB, carregue-o no Facebook e utilize a URL em nossa plataforma utilizando o bloco de vídeo no construtor de fluxo (veja a imagem abaixo)
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
