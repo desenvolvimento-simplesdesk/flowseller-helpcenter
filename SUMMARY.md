@@ -5,7 +5,7 @@
 * [Noções básicas para Flowseller](README.md)
 * [Criando uma conta](start/criando-uma-conta.md)
 * [Fazendo login](start/fazendo-login.md)
-* [Glossário Simplesdesk](start/glossario-simplesdesk.md)
+* [Glossário Flowseller](start/glossario-simplesdesk.md)
 
 ## 📌 ESSENCIAL
 
