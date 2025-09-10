@@ -22,7 +22,7 @@ Clique em Log in em seguida > **API Platform**
 
 Caso você ainda não tenha uma conta na OpenAI clique em **Sign up (Cadastrar)**
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **1.2. Verifique sua** conta
 
@@ -36,7 +36,7 @@ Agora que sua conta foi verificada, volte ao site da OpenAI e clique no botão �
 
 **‍ Após** fazer login, no canto superior direito da tela você verá um ícone com o nome da sua conta ao Lado uma Engrenagem (Configurações/ Settings). Clique nele para abrir o menu suspenso de Configurações no lado esquerdo. ([https://platform.openai.com/settings/organization/api-keys](https://platform.openai.com/settings/organization/api-keys))
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
