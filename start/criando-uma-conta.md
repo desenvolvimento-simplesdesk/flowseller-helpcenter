@@ -6,20 +6,17 @@ description: Como criar uma conta e levar o seu atendimento para outro nível
 
 Iniciando
 
-Para criar uma conta gratuitamente e iniciar o uso do Simpleschat acesse:\
+Para criar uma conta gratuitamente e iniciar o uso do FlowSeller acesse:\
 \
-[https://ai.simplesdesk.com.br/en/new-bot](https://ai.simplesdesk.com.br/en/new-bot)\
+[https://pro.flowseller.com.br/en/new-bot](https://pro.flowseller.com.br/en/new-bot)
 
-
-{% embed url="https://ai.simplesdesk.com.br/en/new-bot" %}
-Link direto para criar conta na Simplesdesk
-{% endembed %}
+{% embed url="https://pro.flowseller.com.br/en/new-bot" %}
 
 {% hint style="warning" %}
 Você poderá conectar uma conta de Whatsapp, Instagram ou Facebook após o Upgrade e validação de pagamento, escolha **WEBCHAT** assim você vai conseguir testar fluxos, configurações e integrações sem interferir em seu atendimento real.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 E clique em Continuar (Webchat), não se preocupe, após efetuar pagamento você poderá conectar os demais canais.
 
@@ -33,10 +30,9 @@ Após clicar em continuar, você será direcionado para sua conta
 
 Você pode conectar via E-mail (mais indicado), via uma conta Google ou uma conta Facebook
 
-&#x20;Agora digite o nome da sua Conta (Ex: Nome da sua Empresa)\
+Agora digite o nome da sua Conta (Ex: Nome da sua Empresa)
 
-
-<figure><img src="../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 Em seguida clique em Upgrade (localizado no menu lateral, no rodapé), e selecione o melhor plano para a sua empresa, efetue o pagamento através de cartão de crédito ou boleto, e pronto, a plataforma será liberada de forma completa para você utilizar.
 
