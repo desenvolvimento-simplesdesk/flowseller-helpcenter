@@ -8,9 +8,11 @@ description: >-
 
 _Tempo estimado de leitura: 1 min_ :hourglass\_flowing\_sand:
 
-1. Convide todos os membros de sua equipe primeiro, clique em **Configurações > Administradores > Gerir**
+1. Convide todos os membros de sua equipe primeiro, clique em **Definições > Administradores > Gerir**
 
-<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
@@ -31,7 +33,7 @@ Ecommerce - Habilitar, Editar e publicar ecommerce e whatsapp shop
 
 Antes de atribuir uma conversa a uma equipe da caixa de entrada, primeiro você precisa criar sua equipe
 
-<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Clique em '**Adicionar'** > Dê um nome à sua equipe da caixa de entrada e selecione os membros da equipe
 
@@ -43,22 +45,21 @@ Clique em '**Adicionar'** > Dê um nome à sua equipe da caixa de entrada e sele
 
 Clique na conversa que deseja atribuir a um administrador > Clique na opção Atribuir conversa e selecione o administrador ao qual deseja atribuir a conversa.
 
-**Atribuir conversa a um administrador**\
+**Atribuir conversa a um administrador**
 
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="494"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
-
-É possível remover atribuição quando desejar é só clicar na opção Remover atribuição
+É possível também remover atribuição quando desejar! Basta clicar na opção "Remover atribuição"
 
 {% hint style="danger" %}
 **IMPORTANTE:** Para evitar conflitos com fluxo/bot em atendimento clique na faixa laranja: o bot está ativo para desativar o fluxo/bot em andamento na conversa
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### **Atribuir conversa a uma equipe**
 
-<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt="" width="464"><figcaption></figcaption></figure>
 
 ### Atribuir conversa a um administrador ou equipe no Construtor de Fluxo(Flows)
 
@@ -66,4 +67,4 @@ Clique na conversa que deseja atribuir a um administrador > Clique na opção At
 
 <figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

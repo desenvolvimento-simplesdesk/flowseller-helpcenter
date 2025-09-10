@@ -14,17 +14,17 @@ Nesta documentação, você aprenderá como usar o OpenAI Vision para analisar i
 1. **Conecte a integração OpenAI se ainda não a conectou. Por favor, leia esta** [**documentação**](./)
 2. **Crie um fluxo onde você coletará imagens do seu usuário (usando Obter Dados do Usuário)**
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Analise a imagem com OpenAI Vision.**
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 É recomendável incluir uma instrução condicional em seu fluxo para verificar se a resposta OpenAI tem algum valor após usar a ação OpenAI para gerar dados. Isso permitirá que você determine se a ação OpenAI foi executada com sucesso.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Caso de uso avançado**
 

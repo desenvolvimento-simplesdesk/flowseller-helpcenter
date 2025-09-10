@@ -16,7 +16,7 @@ Para criar uma conta gratuitamente e iniciar o uso do FlowSeller acesse:\
 Você poderá conectar uma conta de Whatsapp, Instagram ou Facebook após o Upgrade e validação de pagamento, escolha **WEBCHAT** assim você vai conseguir testar fluxos, configurações e integrações sem interferir em seu atendimento real.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 E clique em Continuar (Webchat), não se preocupe, após efetuar pagamento você poderá conectar os demais canais.
 
