@@ -20,9 +20,9 @@ Clique em Log in em seguida > **API Platform**
 
 <figure><img src="../../.gitbook/assets/WhatsApp Image 2025-05-19 at 11.32.00.jpeg" alt=""><figcaption></figcaption></figure>
 
-Caso você ainda não tenha uma conta na OpenAI clique em **Sign up (Cadastrar)**&#x20;
+Caso você ainda não tenha uma conta na OpenAI clique em **Sign up (Cadastrar)**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **1.2. Verifique sua** conta
 
@@ -36,15 +36,13 @@ Agora que sua conta foi verificada, volte ao site da OpenAI e clique no botão �
 
 **‍ Após** fazer login, no canto superior direito da tela você verá um ícone com o nome da sua conta ao Lado uma Engrenagem (Configurações/ Settings). Clique nele para abrir o menu suspenso de Configurações no lado esquerdo. ([https://platform.openai.com/settings/organization/api-keys](https://platform.openai.com/settings/organization/api-keys))
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 **1.5. Gere uma nova chave API**
 
 **‍ Agora que** você está na seção de chaves de API, deverá ver um botão "Criar nova chave secreta". Clique nesse botão para gerar uma nova chave de API.
-
-
 
 <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
@@ -102,7 +100,7 @@ E aí está! Você está pronto para começar a usar os poderosos serviços de a
 
 ## **Acionando um fluxo**
 
-Para saber como acionar um fluxo usando IA, consulte  Gatilhos de IA .
+Para saber como acionar um fluxo usando IA, consulte Gatilhos de IA .
 
 ## **Transferir uma conversa para um humano**
 
