@@ -12,11 +12,11 @@ Preencha seu nome, como deseja que seja chamado e confirme que é maior de 18 an
 
 <figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
-Preencha o nome da sua empresa agora, segmento,  e seu website(opcional) em seguida clique em Create Account
+Preencha o nome da sua empresa agora, segmento, e seu website(opcional) em seguida clique em Create Account
 
 <figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
-Pronto, você vai ter $5 dólares para testar e já pode gerar sua chave api para integrar na simplesdesk. É muito importante para utilização cadastrar uma forma de pagamento aceitável por Claude AI
+Pronto, você vai ter $5 dólares para testar e já pode gerar sua chave api para integrar na Flowseller. É muito importante para utilização cadastrar uma forma de pagamento aceitável por Claude AI
 
 <figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
@@ -57,15 +57,15 @@ Muito importante deixar habilitado o AUTO-RELOAD para recargas automáticas quan
 
 <figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
-Agora vamos gerar sua CHAVE API&#x20;
+Agora vamos gerar sua CHAVE API
 
-Clique em API KEYS no menu lateral esquerdo em seguida Create Key, em seguida dê um nome para sua key (ex: simplesdesk) e copie sua chave
+Clique em API KEYS no menu lateral esquerdo em seguida Create Key, em seguida dê um nome para sua key (ex: Flowseller) e copie sua chave
 
 <figure><img src="../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
-Após copiar sua chave api, dentro da simplesdesk, clique em configurações, Integrações, Claude e clique em Conectar
+Após copiar sua chave api, dentro da Flowseller, clique em configurações, Integrações, Claude e clique em Conectar
 
-<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 Cole sua chave api em seguida configure sua temperatura e tokens necessários (padrão 0,70 temperatura e 200 tokens) em seguida clique em salvar, pronto claude ai conectado, pronta para uso, aproveita as maravilhas desta inteligência artificial
 
