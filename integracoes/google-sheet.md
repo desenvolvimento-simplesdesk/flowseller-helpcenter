@@ -4,30 +4,30 @@ _Tempo estimado de leitura: 5 min_ :hourglass\_flowing\_sand:
 
 A integração do Planilhas Google permite enviar dados, obter dados, obter uma linha aleatória e gerar galerias dinâmicas a partir do Planilhas Google.
 
-### Conectando a Simplesdesk ao Google Sheets
+### Conectando a Flowseller ao Google Sheets
 
-1. &#x20;**Vá para Menu > Configurações > Integrações e Clique em Conectar**
+1. **Vá para Menu > Configurações > Integrações e Clique em Conectar**
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-2. &#x20;A partir daqui, você precisa _escolher a conta_ associada à Planilha Google e aceitar/permitir a conexão da Simplesdesk com sua conta Google.
+2. A partir daqui, você precisa _escolher a conta_ associada à Planilha Google e aceitar/permitir a conexão da Flowseller com sua conta Google.
 
-![](<../.gitbook/assets/image (55).png>)![](<../.gitbook/assets/image (56).png>)
+<figure><img src="../.gitbook/assets/aq (2).png" alt=""><figcaption></figcaption></figure>
 
 \
 **3.** Depois de conectar sua Planilha Google, você obterá a janela de integração como esta imagem abaixo. **Clique em Gerir**
 
 <figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
-\*Observe que você pode desconectar as planilhas do Google com a Simplesdesk a qualquer momento pressionando o botão.
+\*Observe que você pode desconectar as planilhas do Google com a Flowseller a qualquer momento pressionando o botão.
 
 4. Agora clique em **Adicionar**
 
 <figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-5. Após, dê um nome para a Planilha que você vai integrar, não precisa ser igual ao nome da planilha  em seu Google Drive / Google Sheets
+5. Após, dê um nome para a Planilha que você vai integrar, não precisa ser igual ao nome da planilha em seu Google Drive / Google Sheets
 
-Após digitar o nome, abra o seu Google Drive em uma guia no seu navegador, encontre a planilha que deseja integrar, abra, em seguida copie o link da planilha (URL) e cole o link na Simplesdesk
+Após digitar o nome, abra o seu Google Drive em uma guia no seu navegador, encontre a planilha que deseja integrar, abra, em seguida copie o link da planilha (URL) e cole o link na Flowseller
 
 <figure><img src="../.gitbook/assets/image (61).png" alt="" width="394"><figcaption></figcaption></figure>
 
@@ -53,7 +53,7 @@ Ao chegar ao editor de fluxo, você pode pressionar o bloco de mensagem com o qu
 
 ### Que tipo de ações a integração do Google Sheets oferece?
 
-Existem várias opções para escolher ao selecionar a integração com o Google Sheets.&#x20;
+Existem várias opções para escolher ao selecionar a integração com o Google Sheets.
 
 Tudo depende das suas necessidades. Abaixo estão as opções que oferecemos suporte atualmente:
 
@@ -72,7 +72,7 @@ Tudo depende das suas necessidades. Abaixo estão as opções que oferecemos sup
 
 Antes de usar qualquer uma das ações acima, você precisa criar uma planilha do Google com algumas informações predefinidas.
 
-Digamos que você queira capturar dados do assinante, como nome, e-mail e número de telefone.&#x20;
+Digamos que você queira capturar dados do assinante, como nome, e-mail e número de telefone.
 
 Em seguida, exporte para uma planilha do Google. Para isso, precisamos criar alguns cabeçalhos dentro da própria Planilha Google para onde podemos exportar os dados.
 
@@ -86,7 +86,7 @@ Agora que preparamos a Planilha Google, é hora de exportar os dados do nosso bo
 
 ### FATO IMPORTANTE!
 
-Sempre que você conectar sua Planilha Google na Simplesdesk você precisa levar em consideração que sempre que alterar o nome da planilha ou planilha você precisará refazer aquela ação da Planilha Google.
+Sempre que você conectar sua Planilha Google na Flowseller você precisa levar em consideração que sempre que alterar o nome da planilha ou planilha você precisará refazer aquela ação da Planilha Google.
 
 {% hint style="warning" %}
 A integração está configurada para funcionar com o nome da planilha em vez do id. Portanto, alterar isso fará com que a integração pare de funcionar.
@@ -112,17 +112,17 @@ Muito fácil e simples de fazer, certo?
 
 ### Obter linha (valor)
 
-Em vez de exportar dados para uma Planilha Google, também podemos fazer o contrário.&#x20;
+Em vez de exportar dados para uma Planilha Google, também podemos fazer o contrário.
 
 Obter dados de uma planilha do Google e exibir essas informações no bot/conversa para o assinante ver.
 
-Digamos que seu cliente tenha um food truck e mude de local algumas vezes por semana. Ele deseja poder fornecer sua localização atual aos clientes quando eles solicitarem a localização.&#x20;
+Digamos que seu cliente tenha um food truck e mude de local algumas vezes por semana. Ele deseja poder fornecer sua localização atual aos clientes quando eles solicitarem a localização.
 
 Em vez de ter que atualizar o bot todas as vezes, você pode simplesmente deixar seu cliente atualizar sua planilha do Google.
 
 Cada vez que ele muda de local, ele apenas atualiza isso na Planilha Google e o bot do Messenger buscará o local mais recente.
 
-Para poder fazer isso você precisa criar dois campo de informação(Variável do botfield) . Um campo de informação(Variável do botfiel) é usado como valor de pesquisa dentro da planilha, enquanto o outro armazenará a localização daquele food truck.&#x20;
+Para poder fazer isso você precisa criar dois campo de informação(Variável do botfield) . Um campo de informação(Variável do botfiel) é usado como valor de pesquisa dentro da planilha, enquanto o outro armazenará a localização daquele food truck.
 
 Neste caso, criaremos:
 
@@ -205,11 +205,11 @@ Você escolhe a ação **Planilhas Google** -> **Limpar linha** . O mesmo princ�
 
 ### Crie galerias dinâmicas
 
-Este recurso foi atualizado e simplificado, ao mesmo tempo que fornece recursos muito mais poderosos.&#x20;
+Este recurso foi atualizado e simplificado, ao mesmo tempo que fornece recursos muito mais poderosos.
 
 ### Conclusão
 
-A integração da Simplesdeske com o Google Sheets ajuda você de várias maneiras a automatizar a exportação e importação de seus dados de e para o Google Sheets. Oferece muita flexibilidade e mais recursos são adicionados regularmente.
+A integração da Flowseller com o Google Sheets ajuda você de várias maneiras a automatizar a exportação e importação de seus dados de e para o Google Sheets. Oferece muita flexibilidade e mais recursos são adicionados regularmente.
 
 Se isso acontecer esta documentação será atualizada para ajudá-lo a entender os novos recursos, para que você possa implementá-los facilmente.
 

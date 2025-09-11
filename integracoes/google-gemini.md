@@ -22,7 +22,7 @@ ot excelente para o seu negócio é criar um bom prompt (Informações Comerciai
 
 2 – Vá na Flowseller> Configurações > Integrações > Google Gemini
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 3 – Clique no botão **Conectar** e forneça sua **API KEY**.
 

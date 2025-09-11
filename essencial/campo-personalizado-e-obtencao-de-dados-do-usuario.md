@@ -18,7 +18,7 @@ Você pode criar o campo personalizado na seção de fluxo.
 
 Vá em _**Menu > Fluxos > Campos Personalizados**_
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clique no botão “Adicionar” se desejar adicionar um campo personalizado. Na imagem abaixo você pode preencher o nome e digitar conforme sua necessidade, e não esqueça de preencher os dados do campo personalizado no campo de descrição. Mesmo que a “descrição” seja opcional, esta informação irá ajudá-lo quando você tiver vários campos personalizados no futuro.
 

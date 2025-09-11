@@ -12,7 +12,7 @@ _Tempo estimado de leitura: 1 min_ :hourglass\_flowing\_sand:
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
@@ -33,7 +33,7 @@ Ecommerce - Habilitar, Editar e publicar ecommerce e whatsapp shop
 
 Antes de atribuir uma conversa a uma equipe da caixa de entrada, primeiro você precisa criar sua equipe
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clique em '**Adicionar'** > Dê um nome à sua equipe da caixa de entrada e selecione os membros da equipe
 

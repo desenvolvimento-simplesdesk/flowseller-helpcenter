@@ -22,7 +22,7 @@ Clique em Log in em seguida > **API Platform**
 
 Caso você ainda não tenha uma conta na OpenAI clique em **Sign up (Cadastrar)**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **1.2. Verifique sua** conta
 
@@ -36,21 +36,21 @@ Agora que sua conta foi verificada, volte ao site da OpenAI e clique no botão �
 
 **‍ Após** fazer login, no canto superior direito da tela você verá um ícone com o nome da sua conta ao Lado uma Engrenagem (Configurações/ Settings). Clique nele para abrir o menu suspenso de Configurações no lado esquerdo. ([https://platform.openai.com/settings/organization/api-keys](https://platform.openai.com/settings/organization/api-keys))
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/aq.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/aq (3).png" alt=""><figcaption></figcaption></figure>
 
 **1.5. Gere uma nova chave API**
 
 **‍ Agora que** você está na seção de chaves de API, deverá ver um botão "Criar nova chave secreta". Clique nesse botão para gerar uma nova chave de API.
 
-<figure><img src="../../.gitbook/assets/aq (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/aq (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Uma caixa aparecerá solicitando que você nomeie sua chave secreta de API. É uma boa ideia ter chaves diferentes para aplicativos e sites diferentes, portanto, certifique-se de nomeá-lo com algo que você lembrará para que serve quando olhar para ele um dia no futuro.
 
 Depois de inserir um nome para sua chave, clique no botão “Criar chave secreta”.
 
-<figure><img src="../../.gitbook/assets/aq (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/aq (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **1.6. Salve sua chave API**
 
@@ -96,7 +96,7 @@ E aí está! Você está pronto para começar a usar os poderosos serviços de a
 
 ### 3. Clique no botão **Conectar** e forneça sua **API KEY**.
 
-<figure><img src="../../.gitbook/assets/aq (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/aq (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Acionando um fluxo**
 
