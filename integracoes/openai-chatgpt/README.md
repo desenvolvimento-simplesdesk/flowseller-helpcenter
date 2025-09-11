@@ -6,13 +6,13 @@ description: Melhore o atendimento ao cliente com OpenAI ChatGPT
 
 _Tempo estimado de leitura: 1 min_ :hourglass\_flowing\_sand:
 
-Simplesdesk integrou-se ao ChatGPT para permitir que as empresas melhorem o atendimento ao cliente e, ao mesmo tempo, economizem drasticamente custos e recursos humanos.
+**Flowseller** integrou-se ao ChatGPT para permitir que as empresas melhorem o atendimento ao cliente e, ao mesmo tempo, economizem drasticamente custos e recursos humanos.
 
 As empresas podem treinar o ChatGPT para responder a quaisquer perguntas dos clientes relacionadas aos seus negócios. Um chatbot permite que as empresas respondam instantaneamente aos seus clientes, 24 horas por dia, resultando em maior satisfação do cliente. Além disso, é uma solução económica, reduzindo a necessidade de recursos humanos adicionais nas operações de apoio ao cliente.
 
 A chave para criar um chatbot excelente para o seu negócio é criar um bom prompt (Informações Comerciais). O cérebro do seu chatbot é o seu prompt. Sua solicitação deve ser clara e bem escrita.
 
-## Conecte OpenAI a Simplesdesk
+## Conecte OpenAI a Flowseller
 
 #### **1. Obtenha sua chave API OpenAI** [**AQUI**](https://openai.com/api/) **.**
 
@@ -38,19 +38,19 @@ Agora que sua conta foi verificada, volte ao site da OpenAI e clique no botão �
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/aq.png" alt=""><figcaption></figcaption></figure>
 
 **1.5. Gere uma nova chave API**
 
 **‍ Agora que** você está na seção de chaves de API, deverá ver um botão "Criar nova chave secreta". Clique nesse botão para gerar uma nova chave de API.
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/aq (1).png" alt=""><figcaption></figcaption></figure>
 
 Uma caixa aparecerá solicitando que você nomeie sua chave secreta de API. É uma boa ideia ter chaves diferentes para aplicativos e sites diferentes, portanto, certifique-se de nomeá-lo com algo que você lembrará para que serve quando olhar para ele um dia no futuro.
 
 Depois de inserir um nome para sua chave, clique no botão “Criar chave secreta”.
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/aq (2).png" alt=""><figcaption></figcaption></figure>
 
 #### **1.6. Salve sua chave API**
 
@@ -90,13 +90,13 @@ Como observação final, certifique-se de se familiarizar com a política de cas
 
 E aí está! Você está pronto para começar a usar os poderosos serviços de aprendizado de máquina da OpenAI. Lembre-se de manter sua chave de API segura.
 
-### 2. **Vá em Simplesdesk > Configurações > Integrações > OpenAI**
+### 2. **Vá em Flowseller> Configurações > Integrações > OpenAI**
 
 <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
-### 3. Clique no botão **Conectar** e forneça sua **API KEY** .
+### 3. Clique no botão **Conectar** e forneça sua **API KEY**.
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/aq (3).png" alt=""><figcaption></figcaption></figure>
 
 ## **Acionando um fluxo**
 
@@ -108,9 +108,9 @@ Implementamos um gatilho de IA integrado que interrompe automaticamente a automa
 
 ## **Prioridade da automação (Hierarquia da plataforma)**
 
-Depois de conectar o Google Gemini a Simplesdesk, seu chatbot se comunicará automaticamente usando IA sempre que um usuário enviar uma mensagem para seu chatbot. Nenhuma ação é necessária de sua parte.
+Depois de conectar o Google Gemini a **Flowseller**, seu chatbot se comunicará automaticamente usando IA sempre que um usuário enviar uma mensagem para seu chatbot. Nenhuma ação é necessária de sua parte.
 
-E a plataforma Simplesdesk respeitará sua hierarquia, priorizando sempre as configurações na seguinte ordem:
+E a plataforma **Flowseller** respeitará sua hierarquia, priorizando sempre as configurações na seguinte ordem:
 
 1 – Respostas Automatizadas.\
 2 – Fluxo de diálogo\
