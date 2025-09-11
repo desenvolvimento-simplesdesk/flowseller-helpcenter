@@ -1,21 +1,19 @@
 # Fazendo login
 
-Acesse a página principal da Simplesdesk em:
+Acesse a página principal da Flowseller  em:
 
-{% embed url="https://www.simplesdesk.com.br/" %}
+{% embed url="https://flowseller.com.br/" %}
+Site oficial da FlowSeller
+{% endembed %}
 
-Clique em Entrar, localizado no canto superior esquerdo da página
+Agende a sua demonstração:
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
-
-### Selecione a versão que sua conta está alocada
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-Se você está aqui provavelmente sua conta está alocada na **Versão PRO AI (**[**https://ai.simplesdesk.com.br/**](https://ai.simplesdesk.com.br/)**)**
+Se você está aqui provavelmente sua conta está alocada na **Versão PRO AI** [**()**](https://pro.flowseller.com.br/)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+Para entrar com seu e-mail de cadastro ou contas Google/Facebook:
 
-Pronto é só entrar com seu e-mail de cadastro ou contas Google / Facebook
-
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
