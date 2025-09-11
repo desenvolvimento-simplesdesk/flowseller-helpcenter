@@ -44,7 +44,7 @@ Agora que sua conta foi verificada, volte ao site da OpenAI e clique no botão �
 
 **‍ Agora que** você está na seção de chaves de API, deverá ver um botão "Criar nova chave secreta". Clique nesse botão para gerar uma nova chave de API.
 
-<figure><img src="../../.gitbook/assets/aq (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/aq (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Uma caixa aparecerá solicitando que você nomeie sua chave secreta de API. É uma boa ideia ter chaves diferentes para aplicativos e sites diferentes, portanto, certifique-se de nomeá-lo com algo que você lembrará para que serve quando olhar para ele um dia no futuro.
 

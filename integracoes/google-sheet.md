@@ -29,7 +29,7 @@ A integração do Planilhas Google permite enviar dados, obter dados, obter uma 
 
 Após digitar o nome, abra o seu Google Drive em uma guia no seu navegador, encontre a planilha que deseja integrar, abra, em seguida copie o link da planilha (URL) e cole o link na Flowseller
 
-<figure><img src="../.gitbook/assets/image (61).png" alt="" width="394"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/aq.png" alt="" width="394"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
@@ -100,7 +100,7 @@ Depois de coletar todas as informações, podemos usar a ação do Planilhas Goo
 
 Escolha a ação (Enviar dados para o Google Sheets) e selecione o nome da planilha para a qual deseja exportar os dados. A próxima etapa é selecionar a planilha.
 
-Agora combine os dados do bot Simplsdesk que você coletou com os títulos das colunas do Google. Você pode selecionar qualquer um dos campos personalizados, dados de assinantes ou dados de bot. Está tudo disponível para você exportar.
+Agora combine os dados do bot Flowseller que você coletou com os títulos das colunas do Google. Você pode selecionar qualquer um dos campos personalizados, dados de assinantes ou dados de bot. Está tudo disponível para você exportar.
 
 <figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 

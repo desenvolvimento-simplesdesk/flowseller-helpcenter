@@ -1,7 +1,7 @@
 # API Docs
 
-Consulte o Swagger através do link abaixo
+Consulte o Swagger através dos links abaixo:
 
-{% embed url="https://ai.simplesdesk.com.br/api/swagger/" %}
+{% embed url="https://pro.flowseller.com.br/api/swagger/" %}
 
-{% embed url="https://ai.simplesdesk.com.br/api/swagger/tools" %}
+{% embed url="https://pro.flowseller.com.br/api/swagger/partner" %}
