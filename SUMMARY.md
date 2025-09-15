@@ -37,7 +37,6 @@
 * [📲 RESPOSTAS AUTOMÁTICAS](respostas-automaticas.md)
 * [📧 BROADCAST](broadcast.md)
 * [💻 CONTA EMPRESARIAL / META](conta-empresarial-meta/README.md)
-  * [Criação de página e verificação](conta-empresarial-meta/criacao-de-pagina-e-verificacao.md)
   * [Pagamentos para Meta](conta-empresarial-meta/pagamentos-para-meta.md)
 * [⚙️ CONFIGURAÇÕES](configuracoes/README.md)
   * [Resposta Padrão](configuracoes/resposta-padrao.md)
